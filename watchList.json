@@ -1,0 +1,472 @@
+{
+	"total": 6,
+	"auctionInfo": [{
+		"tradeId": 133239376831,
+		"buyNowPrice": 82000,
+		"tradeState": "closed",
+		"itemData": {
+			"id": 101243193143,
+			"timestamp": 1355051709,
+			"itemType": "custom",
+			"lastSalePrice": 0,
+			"owners": 3,
+			"teamid": 481,
+			"rating": 77,
+			"formation": "f433",
+			"morale": 0,
+			"itemState": "free",
+			"resourceId": 1348177301,
+			"preferredPosition": "gK",
+			"attributeList": [],
+			"statsList": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"lifetimeStats": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"injuryGames": 0,
+			"training": 0,
+			"discardValue": 54,
+			"injuryType": "head",
+			"suspension": 0,
+			"fitness": 0,
+			"cardsubtypeid": 11,
+			"contract": 7,
+			"rareflag": 1
+		},
+		"startingBid": 81000,
+		"offers": 0,
+		"bidState": "highest",
+		"watched": true,
+		"currentBid": 0,
+		"expires": 1,
+		"sellerName": "gordongecko",
+		"sellerEstablished": 1352466588,
+		"sellerId": 0
+	},
+	{
+		"tradeId": 133239395173,
+		"buyNowPrice": 82000,
+		"tradeState": "closed",
+		"itemData": {
+			"id": 101408830782,
+			"timestamp": 1356046933,
+			"itemType": "kit",
+			"lastSalePrice": 0,
+			"owners": 2,
+			"teamid": 237,
+			"rating": 77,
+			"formation": "f433",
+			"morale": 0,
+			"itemState": "free",
+			"resourceId": 1348477309,
+			"preferredPosition": "gK",
+			"attributeList": [],
+			"statsList": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"lifetimeStats": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"injuryGames": 0,
+			"training": 0,
+			"discardValue": 31,
+			"injuryType": "head",
+			"suspension": 0,
+			"fitness": 0,
+			"cardsubtypeid": 9,
+			"contract": 7,
+			"rareflag": 0
+		},
+		"startingBid": 81000,
+		"offers": 0,
+		"bidState": "highest",
+		"watched": true,
+		"currentBid": 0,
+		"expires": 1,
+		"sellerName": "gordongecko",
+		"sellerEstablished": 1352466588,
+		"sellerId": 0
+	},
+	{
+		"tradeId": 133239404332,
+		"buyNowPrice": 82000,
+		"tradeState": "closed",
+		"itemData": {
+			"id": 101247320105,
+			"timestamp": 1355062116,
+			"itemType": "kit",
+			"lastSalePrice": 0,
+			"owners": 2,
+			"teamid": 567,
+			"rating": 75,
+			"formation": "f433",
+			"morale": 0,
+			"itemState": "free",
+			"resourceId": 1348477341,
+			"preferredPosition": "gK",
+			"attributeList": [],
+			"statsList": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"lifetimeStats": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"injuryGames": 0,
+			"training": 0,
+			"discardValue": 30,
+			"injuryType": "head",
+			"suspension": 0,
+			"fitness": 0,
+			"cardsubtypeid": 9,
+			"contract": 7,
+			"rareflag": 0
+		},
+		"startingBid": 81000,
+		"offers": 0,
+		"bidState": "highest",
+		"watched": true,
+		"currentBid": 0,
+		"expires": 1,
+		"sellerName": "gordongecko",
+		"sellerEstablished": 1352466588,
+		"sellerId": 0
+	},
+	{
+		"tradeId": 133239401340,
+		"buyNowPrice": 82000,
+		"tradeState": "closed",
+		"itemData": {
+			"id": 101211381728,
+			"timestamp": 1354886652,
+			"itemType": "ball",
+			"lastSalePrice": 81000,
+			"owners": 10,
+			"teamid": 0,
+			"rating": 70,
+			"formation": "f433",
+			"morale": 0,
+			"itemState": "free",
+			"resourceId": 1350297300,
+			"preferredPosition": "gK",
+			"attributeList": [],
+			"statsList": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"lifetimeStats": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"injuryGames": 0,
+			"training": 0,
+			"discardValue": 14,
+			"injuryType": "head",
+			"suspension": 0,
+			"fitness": 0,
+			"cardsubtypeid": 30,
+			"contract": 7,
+			"rareflag": 0
+		},
+		"startingBid": 81000,
+		"offers": 0,
+		"bidState": "highest",
+		"watched": true,
+		"currentBid": 0,
+		"expires": 1,
+		"sellerName": "gordongecko",
+		"sellerEstablished": 1352466588,
+		"sellerId": 0
+	},
+	{
+		"tradeId": 133239452870,
+		"buyNowPrice": 82000,
+		"tradeState": "closed",
+		"itemData": {
+			"id": 101181006413,
+			"timestamp": 1354557879,
+			"itemType": "kit",
+			"lastSalePrice": 10500,
+			"owners": 3,
+			"teamid": 571,
+			"rating": 64,
+			"formation": "f433",
+			"morale": 0,
+			"itemState": "free",
+			"resourceId": 1348477619,
+			"preferredPosition": "gK",
+			"attributeList": [],
+			"statsList": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"lifetimeStats": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"injuryGames": 0,
+			"training": 0,
+			"discardValue": 3,
+			"injuryType": "head",
+			"suspension": 0,
+			"fitness": 0,
+			"cardsubtypeid": 9,
+			"contract": 7,
+			"rareflag": 0
+		},
+		"startingBid": 81000,
+		"offers": 0,
+		"bidState": "highest",
+		"watched": true,
+		"currentBid": 0,
+		"expires": 1,
+		"sellerName": "gordongecko",
+		"sellerEstablished": 1352466588,
+		"sellerId": 0
+	},
+	{
+		"tradeId": 133239465265,
+		"buyNowPrice": 82000,
+		"tradeState": "closed",
+		"itemData": {
+			"id": 100835706824,
+			"timestamp": 1352466588,
+			"itemType": "kit",
+			"lastSalePrice": 0,
+			"owners": 2,
+			"teamid": 110326,
+			"rating": 62,
+			"formation": "f433",
+			"morale": 0,
+			"itemState": "free",
+			"resourceId": 1348577705,
+			"preferredPosition": "gK",
+			"attributeList": [],
+			"statsList": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"lifetimeStats": [{
+				"value": 0,
+				"index": 0
+			},
+			{
+				"value": 0,
+				"index": 1
+			},
+			{
+				"value": 0,
+				"index": 2
+			},
+			{
+				"value": 0,
+				"index": 3
+			},
+			{
+				"value": 0,
+				"index": 4
+			}],
+			"injuryGames": 0,
+			"training": 0,
+			"discardValue": 3,
+			"injuryType": "head",
+			"suspension": 0,
+			"fitness": 0,
+			"cardsubtypeid": 9,
+			"contract": 0,
+			"rareflag": 0
+		},
+		"startingBid": 81000,
+		"offers": 0,
+		"bidState": "highest",
+		"watched": true,
+		"currentBid": 0,
+		"expires": 1,
+		"sellerName": "gordongecko",
+		"sellerEstablished": 1352466588,
+		"sellerId": 0
+	}],
+	"credits": 2755
+}
